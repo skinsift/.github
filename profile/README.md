@@ -66,4 +66,4 @@ To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https:/
 ---
 
 ### Need Help or Have Suggestions?
-Email us at: [skinsiftapp@gmail.com](mailto:skinsiftapp@gmail.com)
+Email us at: [skinsift@gmail.com](mailto:skinsift@gmail.com)
