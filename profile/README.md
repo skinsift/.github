@@ -41,10 +41,10 @@ To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https:/
 | ID              | Name                           | Learning Path       |
 |:----------------|:-------------------------------|:--------------------|
 | M180B4KY1358     | [Faiq Varian Gamal Hasan](https://github.com/chillzuqq ) | Machine Learning    |
-| M013BSX0041     | [Juni Artha Tambunan](https://github.com/yourusername)                 | Machine Learning    |
-| M014BSX0042     | [Ni Kadek Dwita Putri Suastini](https://github.com/yourusername)                 | Machine Learning    |
+| M013BSX0041     | [Juni Artha Tambunan](https://github.com/arthatambunan )                 | Machine Learning    |
+| M014BSX0042     | [Ni Kadek Dwita Putri Suastini](https://github.com/Dwitabputri )                 | Machine Learning    |
 | C014B4KY4064    | [Sang Kompiang Raynor Prabandana Kengetan](https://github.com/SangKengetan)                  | Cloud Computing     |
-| C420B4KX0100    | [Adinda Lutfiatul Faridah](https://github.com/yourusername)                 | Cloud Computing     |
+| C420B4KX0100    | [Adinda Lutfiatul Faridah](https://github.com/slipyheroin )                 | Cloud Computing     |
 | A014B4KX1822    | [I Gusti Ayu Krisna Kusuma Dewi](https://github.com/ayukrisn )                 | Mobile Development  |
 
 ---
