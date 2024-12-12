@@ -16,22 +16,11 @@ To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https:/
 |------------------------------|---------------------------------------------------------------------------------------------|
 | Product Composition Scanner  | Scan product labels to reveal the full list of ingredients.                                |
 | Product Ingredients Insights | Provides detailed information about the functions and benefits of each ingredient.         |
-| Skincare Schedule            | Organize and receive reminders for your skincare routine with a simple calendar system.    |
 | Product Recommendations      | Get personalized product suggestions tailored to your skin needs and preferences.          |
 | Dangerous Product Alerts     | Notifies users of products without BPOM approval or containing harmful ingredients.        |
 | Personalized Guidance        | Access detailed skincare routines and news updates for effective skincare practices.       |
 
 ---
-
-## Optional Features
-
-| Additional Features           | Description                                                                                 |
-|-------------------------------|---------------------------------------------------------------------------------------------|
-| Community                     | Engage with other users via chat groups and forums.                                         |
-| AI Chatbot                    | Consult with an AI skincare advisor for personalized advice.                               |
-| Skin Progress Tracker         | Track your skin improvement over time with photo uploads.                                  |
-| Review and Rating             | Share and explore product reviews and ratings from other users.                            |
-| Budget-Friendly Filter        | Filter products based on price, target benefits, and personal preferences.                 |
 
 ---
 
