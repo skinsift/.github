@@ -49,7 +49,7 @@ To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https:/
 - **[API Repository](https://github.com/SkinSift/skinsift-api)**: Handles product scanning, recommendations, and data storage.
 
 ### Mobile Development
-- **Tech Stack**: Android SDK, Kotlin, Retrofit.
+- **Tech Stack**: Android Studio, Kotlin, Android Jetpack, Retrofit.
 - **[App Repository](https://github.com/SkinSift/skinsift-android)**: Source code for the SkinSift Android app.
 
 ---
