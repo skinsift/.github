@@ -39,15 +39,16 @@ SkinSift is a cutting-edge skincare application that empowers users to make info
 ## Tech Stack
 
 ### Machine Learning
-- **Tech Stack**: TensorFlow & Keras
+- **Tech Stack**: TensorFlow, Tesseracht, and Keras
 - **[Model Repository](https://github.com/skinsift/machine-learning)**: Contains trained models for ingredient recognition and recommendations.
 
 ### Cloud Computing
 - **Tech Stack**: FastAPI, JWT, and Cloud SQL.
-- **[API Repository](https://github.com/SkinSift/skinsift-api)**: Handles product scanning, recommendations, and data storage.
-
+- **[API App Repository](https://github.com/SkinSift/auth-api)**: Handles authentification, dictionary features, notes features, and setting accounts.
+- **[API ML Repository](https://github.com/SkinSift/auth-api)**: Handles product scanning and product recommendations.
+  
 ### Mobile Development
-- **Tech Stack**: Android Studio, Kotlin, Android Jetpack, Retrofit.
+- **Tech Stack**: Android Studio (Level 24), Kotlin, Android Jetpack Compose, Retrofit, Koin, OkHttp3, and Gson.
 - **[App Repository](https://github.com/skinsift/skinsift)**: Source code for the SkinSift Android app.
 
 ---
