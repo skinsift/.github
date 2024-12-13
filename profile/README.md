@@ -25,7 +25,7 @@ SkinSift is your ultimate skincare companion, designed to enhance your skincare 
 ---
 
 ## Team Members
-### Bangkit 2024 Capstone Team CH2-PS184
+### Bangkit 2024 Capstone Team C242-PS519
 
 | ID              | Name                           | Learning Path       |
 |:----------------|:-------------------------------|:--------------------|
