@@ -3,10 +3,10 @@
 
 SkinSift is your ultimate skincare companion, designed to enhance your skincare journey. By scanning skincare products, SkinSift identifies ingredients, provides insights into their functions, and alerts users about potentially harmful components. With features like product recommendations, usage schedules, and personalized skincare guidance, SkinSift ensures users make informed decisions while maintaining healthy skin.
 
-To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https://landing-page-skinsift.example.com) --> for additional information.
+<!--  To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https://landing-page-skinsift.example.com) --> for additional information.
 
 ## Download Our App
-[Download SkinSift App] <!--  (https://storage.googleapis.com/products_image_skinsift/SkinSift.apk)-->
+[Download SkinSift App] (https://storage.googleapis.com/products_image_skinsift/SkinSift.apk)](https://storage.googleapis.com/skinsift/application/SkinSift-v1.0.apk)
 
 ---
 
