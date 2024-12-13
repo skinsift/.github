@@ -39,7 +39,7 @@ SkinSift is a cutting-edge skincare application that empowers users to make info
 ## Tech Stack
 
 ### Machine Learning
-- **Tech Stack**: TensorFlow, Pytesseract, Pandas, NumPy, and Keras
+- **Tech Stack**: TensorFlow, Pandas, NumPy, and Keras
 - **[Model Repository](https://github.com/skinsift/machine-learning)**: Contains trained models for ingredient recognition and recommendations.
 
 ### Cloud Computing
