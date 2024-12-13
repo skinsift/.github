@@ -6,7 +6,7 @@ SkinSift is your ultimate skincare companion, designed to enhance your skincare 
 <!--  To explore more about SkinSift, visit our [SkinSift Landing Page] <!--  (https://landing-page-skinsift.example.com) --> for additional information.
 
 ## Download Our App
-[Download SkinSift App] (https://storage.googleapis.com/products_image_skinsift/SkinSift.apk)](https://storage.googleapis.com/skinsift/application/SkinSift-v1.0.apk)
+[Download SkinSift App](https://storage.googleapis.com/skinsift/application/SkinSift-v1.0.apk)
 
 ---
 
